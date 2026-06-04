@@ -31,7 +31,7 @@ services:
       - 5005:5005 # Optional
       - 9543:9543 # Optional
       - 6789:6789 # Optional
-      - 8080:8080
+      - 8181:8080
       - 8444:8444 # Optional
       - 3478:3478/udp
       - 5514:5514/udp # Optional
